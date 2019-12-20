@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPWANuget", "BlazorPWANuget\BlazorPWANuget.csproj", "{7DF7DBD0-127D-42D8-BFEE-DC6FAD15A0D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF7DBD0-127D-42D8-BFEE-DC6FAD15A0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF7DBD0-127D-42D8-BFEE-DC6FAD15A0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF7DBD0-127D-42D8-BFEE-DC6FAD15A0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF7DBD0-127D-42D8-BFEE-DC6FAD15A0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {108BEDF4-F133-47C9-9E47-53E8239DCE09}
+	EndGlobalSection
+EndGlobal
